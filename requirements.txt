@@ -2,3 +2,6 @@ streamlit
 pandas
 requests
 torch
+transformers
+sentence-transformers
+google-generativeai
